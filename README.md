@@ -39,8 +39,8 @@ It's about this: running away to Siberia and raise reindeers 🛐
 ***Hey look, some cool stats about my GitHub 👀***
 
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palitin&layout=compact&langs_count=7&theme=cobalt"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Palitin&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palitin&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Palitin&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
