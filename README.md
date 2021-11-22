@@ -12,8 +12,7 @@ Por enquanto eu aprendi:
 Estou interessada em aprender:
  - [ ] Lua
  - [ ] Javascript
- - [ ] Portugol
- - [ ] Russo fodase kkkk
+ - [ ] Russo kkkk
 
 É sobre isso: Fugir pra Sibéria e criar renas 😌
 
@@ -28,7 +27,6 @@ What I know:
 What I wanna know:
  - [ ] Lua
  - [ ] Javascript
- - [ ] Portugol
  - [ ] Russian idc lol
 
 It's about this: running away to Siberia and raise reindeers 🛐
@@ -45,9 +43,8 @@ It's about this: running away to Siberia and raise reindeers 🛐
 
 ---
 
-Bagulho legal de cobrinha produzido por [ldavu](davu) | Cool snake thing powered by [ldavu](davu)   
+Bagulho legal de cobrinha produzido por meu amigo Davu :)    
 (valeu davizera sou muito burra pra essas coisas *ainda*)  
 ![Snake animation](https://github.com/Palitin/Palitin/blob/output/github-contribution-grid-snake.svg)
 
 [repos]: https://github.com/Palitin?tab=repositories "my repositories | meus repositórios"
-[davu]: https://github.com/ldavu "davu's link | link do davu"
