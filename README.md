@@ -1,4 +1,4 @@
-# [Bio da Clara | Clara's Bio]("https://github.com/Palitin")
+# [Bio da Clara | Clara's Bio]("https://github.com/Clara-Haag")
 <div>
     <img align="right" alt="plaito" src="https://cdn.discordapp.com/emojis/859088644942069790.gif?v=1">
 </div>
